@@ -44,7 +44,7 @@ If you can't use any of the package managers, you can also download [git-credent
 3. Import the signing key into RPM's database:
 
     ```
-    sudo rpm --import RPM-GPG-KEY.txt
+    
     ```
 4. Verify the GCM4ML RPM:
 
